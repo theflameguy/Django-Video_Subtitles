@@ -35,10 +35,12 @@ Clone the repository into your local system.
 
 then go to this url -> `localhost:8000/videos/upload`
 
-Link should should navigate to:
+Link should navigate to:
 
 ![git clone command image](Screenshots/Screenshot%20(20).png)
 
+
+To know more check the Video available in the Screenshots folder
 
 
 
