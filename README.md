@@ -1,5 +1,5 @@
 # Django-Video_Subtitles
-Django video subtitle Extraction, extracts all the available subtitle streams available from a video using `ffmpeg` ,also lets you search the subtitles(eng) and skips to that timestamp.
+Django video subtitle Extraction, extracts all the available subtitle streams available from a video using `ffmpeg`, also lets you search the subtitles(eng) and skips to that timestamp.
 
 ## To run the project
 Clone the repository into your local system.
