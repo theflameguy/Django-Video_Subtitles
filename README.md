@@ -1,4 +1,4 @@
-# Django-project-
+# Django-Video_Subtitles
 Django video subtitle Extraction, extracts all the available subtitle streams available from a video using `ffmpeg` ,also lets you search the subtitles(eng) and skips to that timestamp.
 
 ## To run the project
